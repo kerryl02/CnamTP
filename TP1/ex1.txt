@@ -1,0 +1,7 @@
+1. les balise indispensable sont : une balise html, head avec c'est balise title et meta, une balise body
+2. dans la balise head on retrouve des balise meta ,des link vers d'autre fichier ou lien web 
+3. la balise title se retrouve dans la partie onglet de la page 
+4. 1balise ouvrante 2atribue 3contenue 4balise fermante
+5. les deux type de liste son ul et ol
+6. c'est balise auto fermante qui prend en atribue le chemin d'une image ou son adresse et le descriptif de l'image pour les non voyant et aussi saffiche si l'img s'affiche pas
+  
