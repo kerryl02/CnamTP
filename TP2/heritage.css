@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+
+}
+ul.liste-principale{
+    border: 1px solid gray;
+    box-shadow: 0 0 5px blue;
+}
+ul.sous-liste{
+    border: 1px solid gray;
+    box-shadow: 0 0 5px;
+    margin: 5px;
+}
+
