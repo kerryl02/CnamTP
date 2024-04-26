@@ -6,7 +6,7 @@ ul ul, ul li:hover ul ul{
 ul li:hover ul, ul ul li:hover ul{
     display: block;
 }
-/*ul{
+ul{
     border: solid;
     border-width: 0.1em 0 0 0;
     list-style: none;
@@ -25,4 +25,4 @@ ul ul,ul ul ul{
     margin-top: -2.1em; 
     margin-left: 9.8em;
 
-}*/
+}
