@@ -1,0 +1,36 @@
+*{
+	padding: 0;
+	margin: 0;
+
+}
+
+table{
+	border-collapse: collapse;
+}
+body{
+	margin: 50px;
+}
+
+.cacher {
+	display: none;
+}
+
+
+#contenu{
+	border: solid 1px;
+}
+
+td{
+	border: solid 1px;
+	width: 100px;
+	height: 100px;
+}
+.left-arrow{
+	width: 30px;
+}
+#first-line{
+	height: 10px;
+}
+#d2{
+	width: 30px;
+}
